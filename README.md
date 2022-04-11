@@ -7,4 +7,4 @@
 
 -----------------
 
-This repository includes small projects involving MLOps concepts with some tools such as [MLflow](https://mlflow.org/), [Kubeflow](https://www.kubeflow.org/),[Apache Spark](https://spark.apache.org/), [scikit-learn](https://scikit-learn.org/stable/), APIs, among others.
+This repository includes small projects involving MLOps concepts with some tools such as [MLflow](https://mlflow.org/), [Kubeflow](https://www.kubeflow.org/), [Apache Spark](https://spark.apache.org/), [scikit-learn](https://scikit-learn.org/stable/), APIs, among others.
